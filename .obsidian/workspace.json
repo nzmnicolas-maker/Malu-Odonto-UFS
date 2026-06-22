@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Periodo/Farmacologia_II/01_Introducao_Farmaco.md",
+                "file": "03_Periodo/Farmacologia_II/01-Farmacologia-II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Introducao_Farmaco"
+              "title": "01-Farmacologia-II"
             }
           }
         ]
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a99e6f583e27f3d4",
+            "id": "5ecd6e2038fe752f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -186,6 +186,10 @@
   },
   "active": "664cf16a49500b66",
   "lastOpenFiles": [
+    "03_Periodo/Histologia_e_Embriologia_Humanas/02-Histologia-e-Embriologia-Humanas.md",
+    "03_Periodo/Farmacologia_II/01-Farmacologia-II.md",
+    "03_Periodo/Parasitologia_Humana/04-Parasitologia-Humana (1).md",
+    "03_Periodo/Microbiologia_e_Imunologia_Orais/03-Microbiologia-e-Imunologia-Orais.md",
     "03_Periodo/Farmacologia_II/01_Introducao_Farmaco.md",
     "03_Periodo/Parasitologia_Humana/01_Parasitas_Odonto.md/Novo Documento de Texto.txt",
     "03_Periodo/Microbiologia_e_Imunologia_Orais/01_Biofilme_e_Imunologia.md/Novo Documento de Texto.txt",
