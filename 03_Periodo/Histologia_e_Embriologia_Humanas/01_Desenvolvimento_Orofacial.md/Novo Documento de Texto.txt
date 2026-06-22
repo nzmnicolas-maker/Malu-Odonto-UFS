@@ -1,0 +1,8 @@
+# 01_Desenvolvimento Orofacial
+**Matéria:** Histologia e Embriologia - UFS
+**Status:** ?? Revisado
+
+## ?? Embriologia e Tecidos
+* **Arcos Faríngeos:** Estruturas que formam face e pescoço; o 1º Arco (Mandibular) é vital para maxila e mandíbula.
+* **Palatogênese:** Fusão do palato primário e secundário; falhas causam fissuras labiopalatinas.
+* **Tecido Ósseo:** Composto por osteoblastos (formação), osteoclastos (reabsorção) e osteócitos (manutenção).

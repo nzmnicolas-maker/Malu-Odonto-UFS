@@ -1,0 +1,8 @@
+# 01_Biofilme e Imunologia Oral
+**Matéria:** Microbiologia e Imunologia - UFS
+**Status:** ?? Revisado
+
+## ?? Biofilme e Defesa
+* **Biofilme Dental:** Comunidade microbiana organizada, não apenas sujeira.
+* **Sucessão:** Película adquirida (saliva) -> Colonizadores primários (Streptococcus) -> Colonizadores secundários (anaeróbios).
+* **Imunologia:** A saliva atua como barreira com IgA secretora e lisozimas.

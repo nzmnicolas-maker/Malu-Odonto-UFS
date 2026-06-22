@@ -1,0 +1,8 @@
+# 01_Parasitologia na Odontologia
+**Matéria:** Parasitologia Humana - UFS
+**Status:** ?? Revisado
+
+## ?? Pontos Chave
+* **Entamoeba gingivalis:** Protozoário comum em bolsas periodontais inflamadas.
+* **Ciclos:** Monoxênico (1 hospedeiro) vs Heteroxênico (2+ hospedeiros); fundamental para entender transmissão.
+* **Clínica:** O controle de infecção cruzada é essencial para evitar transmissão via saliva no consultório.
