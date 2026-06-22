@@ -1,9 +1,0 @@
-# 01_Fundamentos da Farmacocinética
-**Matéria:** Farmacologia II - UFS
-**Status:** ?? Revisado
-
-## ?? O que o corpo faz com o fármaco (ADME)
-* **Absorção:** Passagem do fármaco para a circulação. Fatores como lipossolubilidade e pH são determinantes.
-* **Distribuição:** O fármaco viaja pelo sangue. Apenas a fração livre (não ligada à albumina) atravessa membranas para agir.
-* **Metabolismo:** Ocorre no fígado (Citocromo P450), visando transformar o fármaco em substância hidrossolúvel para excreção.
-* **Excreção:** Realizada principalmente pelos rins via filtração glomerular.
