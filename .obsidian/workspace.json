@@ -11,10 +11,14 @@
             "id": "664cf16a49500b66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03_Periodo/Farmacologia_II/01_Introducao_Farmaco.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01_Introducao_Farmaco"
             }
           }
         ]
@@ -180,8 +184,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "54d9828a8eda5877",
+  "active": "664cf16a49500b66",
   "lastOpenFiles": [
+    "03_Periodo/Farmacologia_II/01_Introducao_Farmaco.md",
     "03_Periodo/Parasitologia_Humana/01_Parasitas_Odonto.md/Novo Documento de Texto.txt",
     "03_Periodo/Microbiologia_e_Imunologia_Orais/01_Biofilme_e_Imunologia.md/Novo Documento de Texto.txt",
     "03_Periodo/Histologia_e_Embriologia_Humanas/01_Desenvolvimento_Orofacial.md/Novo Documento de Texto.txt",
@@ -195,7 +200,6 @@
     "03_Periodo/Farmacologia_II/01_Fundamentos_Farmacocinetica.md",
     "03_Periodo/Farmacologia_II/Nova pasta",
     "03_Periodo/Histologia_e_Embriologia_Humanas/01_Desenvolvimento_Face.md",
-    "03_Periodo/Microbiologia_e_Imunologia_Orais/01_Biofilme_Dental.md",
-    "03_Periodo/Farmacologia_II/01_Introducao_Farmaco.md"
+    "03_Periodo/Microbiologia_e_Imunologia_Orais/01_Biofilme_Dental.md"
   ]
 }
