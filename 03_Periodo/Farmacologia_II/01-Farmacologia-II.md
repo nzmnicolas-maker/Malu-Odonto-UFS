@@ -80,10 +80,10 @@ Esse é provavelmente o subtópico mais cobrado da unidade, porque é prática d
 
 **Classificação química — cai sempre em prova:**
 
-| Tipo | Exemplos | Metabolismo | Risco alérgico |
-|---|---|---|---|
-| **Ésteres** | Procaína, Benzocaína, Tetracaína | Esterases plasmáticas (rápido) | Maior (produzem PABA, alergênico) |
-| **Amidas** | Lidocaína, Mepivacaína, Prilocaína, Articaína, Bupivacaína | Fígado (citocromo P450) | Muito raro |
+| Tipo        | Exemplos                                                   | Metabolismo                    | Risco alérgico                    |
+| ----------- | ---------------------------------------------------------- | ------------------------------ | --------------------------------- |
+| **Ésteres** | Procaína, Benzocaína, Tetracaína                           | Esterases plasmáticas (rápido) | Maior (produzem PABA, alergênico) |
+| **Amidas**  | Lidocaína, Mepivacaína, Prilocaína, Articaína, Bupivacaína | Fígado (citocromo P450)        | Muito raro                        |
 
 > [!tip] Detalhe que costuma confundir
 > A **articaína** é amida, mas tem um anel tiofeno extra que sofre metabolismo parcial também por esterases plasmáticas — por isso tem meia-vida curta mesmo sendo amida. É um ponto clássico de pegadinha.
